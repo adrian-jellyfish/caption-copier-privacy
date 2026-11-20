@@ -34,11 +34,11 @@ The "Buy a license" button only opens our purchase website in your web browser.
 
 Licenses are sold on our purchase website (caption-copier.adrian20020105.workers.dev), which runs on Cloudflare.
 
-**Card payments** are processed by Paddle.com, our reseller and Merchant of Record for card orders. Paddle collects the information needed for the payment and for taxes, such as your name, email address, country or address, and payment card details, and handles it under [Paddle's privacy policy](https://www.paddle.com/legal/privacy). We never see your full card details. From Paddle we receive your email address and the details of the transaction (such as the transaction number, product, amount and status).
+**Card payments**, when offered on the website, are processed by Paddle.com, our reseller and Merchant of Record for card orders. Paddle collects the information needed for the payment and for taxes, such as your name, email address, country or address, and payment card details, and handles it under [Paddle's privacy policy](https://www.paddle.com/legal/privacy). We never see your full card details. From Paddle we receive your email address and the details of the transaction (such as the transaction number, product, amount and status).
 
 **Cryptocurrency payments** are processed by NOWPayments. You enter your email address on our website; we store it together with an order number and the order's payment status in our order database (on Cloudflare). NOWPayments processes the payment under [its privacy policy](https://nowpayments.io/privacy-policy) and tells us the payment's status. Payments on a blockchain are public by the nature of the blockchain.
 
-**Our website** does not use cookies, analytics or advertising. Its host, Cloudflare, processes technical information such as IP addresses to deliver and protect the website, under [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/). The card checkout is provided by Paddle's script, which may set its own cookies under Paddle's policy.
+**Our website** does not use cookies, analytics or advertising. Its host, Cloudflare, processes technical information such as IP addresses to deliver and protect the website, under [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/). When card payments are offered, the card checkout is provided by Paddle's script, which may set its own cookies under Paddle's policy.
 
 **How we use purchase information:** to issue your license key, to show it to you again or resend it if you lose it, to handle refunds and support requests, and to keep records required by law. We do not send marketing email.
 
